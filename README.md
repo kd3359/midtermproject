@@ -72,8 +72,8 @@ Cardano’s volume, meanwhile, has more irregular peaks. Some of these spikes ha
 
 After calculating the daily percentage changes, the project generated a correlation heatmap using seaborn. The results show a positive but moderate correlation between price and volume for all three of the coins
 
-Bitcoin and Ethereum have the strongest positive correlations, meaning that when their prices change sharply, trading volumes follow in the same direction. Cardano, however, has a weaker correlation, showing that its trading volume is more speculative, matching the idea that because it is a smaller coin, there is more random volatility due to external factors.   
----
+**Bitcoin and Ethereum have the strongest positive correlations, meaning that when their prices change sharply, trading volumes follow in the same direction. Cardano, however, has a weaker correlation, showing that its trading volume is more speculative, matching the idea that because it is a smaller coin, there is more random volatility due to external factors.   
+**---
 
 ### **Rolling Correlation**
 
